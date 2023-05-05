@@ -1,0 +1,32 @@
+=============== Feb 27, 2023 (GMT) ===============
+21:21:52.896270 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:21:52.936789 db@open opening
+21:21:52.949391 version@stat F·[] S·0B[] Sc·[]
+21:21:52.956296 db@janitor F·2 G·0
+21:21:52.956296 db@open done T·19.5066ms
+21:21:53.273073 db@close closing
+21:21:53.276800 db@close done T·3.7274ms
+=============== Feb 28, 2023 (GMT) ===============
+11:17:59.553672 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:17:59.560981 version@stat F·[] S·0B[] Sc·[]
+11:17:59.560981 db@open opening
+11:17:59.560981 journal@recovery F·1
+11:17:59.575188 journal@recovery recovering @1
+11:17:59.697585 memdb@flush created L0@2 N·11 S·633B "HV~..h=\xd4,v4":"r\x00\x00..h=\xd4,v6"
+11:17:59.706278 version@stat F·[1] S·633B[633B] Sc·[0.25]
+11:17:59.773075 db@janitor F·3 G·0
+11:17:59.773075 db@open done T·212.0936ms
+11:18:29.019101 db@close closing
+11:18:29.022410 db@close done T·3.3086ms
+=============== Feb 28, 2023 (GMT) ===============
+11:18:39.305086 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:18:39.313854 version@stat F·[1] S·633B[633B] Sc·[0.25]
+11:18:39.313854 db@open opening
+11:18:39.313854 journal@recovery F·1
+11:18:39.313854 journal@recovery recovering @3
+11:18:39.325146 memdb@flush created L0@5 N·2 S·209B "unc..own,v14":"unc..own,v13"
+11:18:39.329942 version@stat F·[2] S·842B[842B] Sc·[0.50]
+11:18:39.391594 db@janitor F·4 G·0
+11:18:39.391594 db@open done T·77.7397ms
+11:19:33.551256 db@close closing
+11:19:33.553016 db@close done T·1.7601ms
