@@ -10,7 +10,6 @@ https://nodejs.org/en/download
 
 NPM package installations:
 - 'npm install web3'
-- 'npm install fs'
 - 'npm install chartjs-node-canvas'
 
 ## pending.js : To get pending transactions (in local blockchain)
