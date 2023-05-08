@@ -1,5 +1,4 @@
 // Setting up initial connection to local ethereum node
-//const Tx = require('ethereumjs-tx').Transaction;
 const fs = require('fs');
 
 const Web3 = require('web3');
